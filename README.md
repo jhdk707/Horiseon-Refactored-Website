@@ -49,3 +49,5 @@ https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
  ## Personal review
 
  One thing that I was having issues with was using terminal for git pull/push/add, I still need some practice. I got a couple commits to go through with messages, however most were pushed through VSCode and I did not figure out how to do commit messages until the very end, so I know I will be lacking some commit messages in the REPO for this project. I will continue to practice more with terminal to understand how to use it better 
+
+ I did screw up my first repo that had all of my original commits and some of my repo comments. I left it up on my GITHUB under Module1Challenge so that it may be viewed. 

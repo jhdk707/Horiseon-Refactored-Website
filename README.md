@@ -54,4 +54,4 @@ https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
  I did screw up my first repo that had all of my original commits and some of my repo comments. I left it up on my GITHUB under Module1Challenge so that it may be viewed. 
 
-![Screenshot](assets\Screenshot 2022-12-04 at 18-19-21 Horiseon Social Solution Services.png) 
+![Screen shot](assets\Screenshot 2022-12-04 at 18-19-21 Horiseon Social Solution Services.png "Screenshot of Horiseon Website") 

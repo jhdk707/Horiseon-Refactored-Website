@@ -40,13 +40,13 @@ body {
     font-size: 20px;
 }
 
-/*changed from .header div ul to .header nav ul to matched sematics tags in html */
+/*changed from .header div ul to .header nav ul to match sematics tags in html */
 
 .header nav ul {
     list-style-type: none;
 }
 
-/*changed from .header div ul li to .header nav ul li to matched sematics tags in html */
+/*changed from .header div ul li to .header nav ul li to match sematics tags in html */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
